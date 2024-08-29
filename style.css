@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #0207a2;
+  background-color: #ff4000;
   color: black;
 }
 
@@ -38,7 +38,7 @@ nav a:hover {
 }
 
 .sessao {
-  background-color: #FFFFFF;
+  background-color: #0097bd;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px;
   padding: 20px;
